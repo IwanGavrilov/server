@@ -1,0 +1,6 @@
+{
+    "setting" : {
+        "path_database" : "/media/waine-86/WORK/My_Project_C_Delphy/OTUS/Project/Sources/database/data_base.db",
+        "path_file" : "/media/waine-86/WORK/My_Project_C_Delphy/OTUS/Project/Sources/SrvTCP"
+    }
+}
